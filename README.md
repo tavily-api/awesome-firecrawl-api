@@ -61,3 +61,5 @@ A curated list of resources for the Firecrawl API, the hosted web data API that 
 ## Contributing
 
 Pull requests welcome: one link per line, a plain one-line reason, and only pages that are about Firecrawl or something you actually used it with.
+
+_Last reviewed: 2026-09-22_
